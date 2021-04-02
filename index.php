@@ -108,7 +108,7 @@
                             <li><a href="#">My Account<i class="lnr lnr-chevron-down"></i></a>
                                 <!-- Dropdown Start -->
                                 <ul class="ht-dropdown">
-                                    <li><a href="admin/login.php">Login</a></li>
+                                    <li><a href="admin/index.php">Login</a></li>
                                     <li><a href="register.html">Register</a></li>
                                 </ul>
                                 <!-- Dropdown End -->
