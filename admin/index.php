@@ -7,7 +7,7 @@ if(isset($_POST['login'])){
 	$check = pg_num_rows($result);
 	if($check == 1){
 		echo "okay";
-		header("Location:index.php");
+		header("Location:home.php");
 	}
 	else{
 		echo "sorry";
