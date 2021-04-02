@@ -1,5 +1,6 @@
 <?php
 include('inc/header.php');
+include('login.php');
 ?>
         <div class="container">
             <div class="row">
